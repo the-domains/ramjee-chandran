@@ -1,0 +1,28 @@
+name: Ramjee Chandran
+favicon: null
+layout_spectrum: 0.16544201038777828
+typography_spectrum: 0.01517978380434215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5107919329311699
+  lightness: 0.5111650635953993
+  saturation: 0.2502977454569191
+  rhythmicContrast: 0.8678315719589591
+purpose: []
